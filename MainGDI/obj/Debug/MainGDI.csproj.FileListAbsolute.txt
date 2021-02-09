@@ -1,0 +1,11 @@
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\bin\Debug\MainGDI.exe.config
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\bin\Debug\MainGDI.exe
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\bin\Debug\MainGDI.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.csprojAssemblyReference.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.Form1.resources
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.Properties.Resources.resources
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.csproj.GenerateResource.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.csproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.exe
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\GDIOverlay\MainGDI\obj\Debug\MainGDI.FormOverlay.resources
